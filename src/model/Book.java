@@ -1,5 +1,5 @@
 package model;
-
+//defined some properties
 public class Book {
 	private int id;
 	private int aid;
