@@ -21,7 +21,7 @@ public class DB {
 		}
 		return conn;
 	}
-
+	//java
 	public static PreparedStatement prepare(Connection conn, String sql) {
 		PreparedStatement ps = null;
 		try {
